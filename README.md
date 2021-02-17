@@ -2,7 +2,7 @@
 
 ### Project title
 
-Gene-Drug Interaction Warning
+Gene-Drug Interaction 
 
 ### What and why?
 
